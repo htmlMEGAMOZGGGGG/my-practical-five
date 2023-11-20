@@ -1,1 +1,17 @@
-
+body{
+    margin: 0 ;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+#section1{
+    background-color: red;
+}
+#section2{
+    background-color: green;
+}
+#section3{
+    background-color: yellow;
+}
